@@ -1,5 +1,8 @@
 # GenAI_Medical_Chatbot
 
+![image info](static/demo.jpeg)
+
+
 # How to run?
 ### STEPS:
 
